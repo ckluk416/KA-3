@@ -2,8 +2,7 @@
 Nama: Fathin Yassarahman<br>NIM: 241524041<br>Kelas:2B
 
 
-<video src="preview.mp4" width="60%" controls>
-</video>
+![preview](preview.gif)
 
 
 
